@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\grid\\tetriscup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|solutionrelative:grid\\tetriscup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46ACBC0-A2DA-48D4-BB0D-B2A4A6896DF5}|..\\TetrisGame\\TetrisGame.csproj|c:\\users\\edelweiss\\desktop\\\u043A\u043F\\\u0440\u043F\u043C\\source\\vers2\\tetrisgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46ACBC0-A2DA-48D4-BB0D-B2A4A6896DF5}|..\\TetrisGame\\TetrisGame.csproj|c:\\users\\edelweiss\\desktop\\\u043A\u043F\\\u0440\u043F\u043C\\source\\vers2\\tetrisgame\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46ACBC0-A2DA-48D4-BB0D-B2A4A6896DF5}|..\\TetrisGame\\TetrisGame.csproj|c:\\users\\edelweiss\\desktop\\\u043A\u043F\\\u0440\u043F\u043C\\source\\vers2\\tetrisgame\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46ACBC0-A2DA-48D4-BB0D-B2A4A6896DF5}|..\\TetrisGame\\TetrisGame.csproj|c:\\users\\edelweiss\\desktop\\\u043A\u043F\\\u0440\u043F\u043C\\source\\vers2\\tetrisgame\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46ACBC0-A2DA-48D4-BB0D-B2A4A6896DF5}|..\\TetrisGame\\TetrisGame.csproj|c:\\users\\edelweiss\\desktop\\\u043A\u043F\\\u0440\u043F\u043C\\source\\vers2\\tetrisgame\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46ACBC0-A2DA-48D4-BB0D-B2A4A6896DF5}|..\\TetrisGame\\TetrisGame.csproj|c:\\users\\edelweiss\\desktop\\\u043A\u043F\\\u0440\u043F\u043C\\source\\vers2\\tetrisgame\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46ACBC0-A2DA-48D4-BB0D-B2A4A6896DF5}|..\\TetrisGame\\TetrisGame.csproj|c:\\users\\edelweiss\\desktop\\\u043A\u043F\\\u0440\u043F\u043C\\source\\vers2\\tetrisgame\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46ACBC0-A2DA-48D4-BB0D-B2A4A6896DF5}|..\\TetrisGame\\TetrisGame.csproj|c:\\users\\edelweiss\\desktop\\\u043A\u043F\\\u0440\u043F\u043C\\source\\vers2\\tetrisgame\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46ACBC0-A2DA-48D4-BB0D-B2A4A6896DF5}|..\\TetrisGame\\TetrisGame.csproj|c:\\users\\edelweiss\\desktop\\\u043A\u043F\\\u0440\u043F\u043C\\source\\vers2\\tetrisgame\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46ACBC0-A2DA-48D4-BB0D-B2A4A6896DF5}|..\\TetrisGame\\TetrisGame.csproj|c:\\users\\edelweiss\\desktop\\\u043A\u043F\\\u0440\u043F\u043C\\source\\vers2\\tetrisgame\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46ACBC0-A2DA-48D4-BB0D-B2A4A6896DF5}|..\\TetrisGame\\TetrisGame.csproj|c:\\users\\edelweiss\\desktop\\\u043A\u043F\\\u0440\u043F\u043C\\source\\vers2\\tetrisgame\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46ACBC0-A2DA-48D4-BB0D-B2A4A6896DF5}|..\\TetrisGame\\TetrisGame.csproj|c:\\users\\edelweiss\\desktop\\\u043A\u043F\\\u0440\u043F\u043C\\source\\vers2\\tetrisgame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46ACBC0-A2DA-48D4-BB0D-B2A4A6896DF5}|..\\TetrisGame\\TetrisGame.csproj|c:\\users\\edelweiss\\desktop\\\u043A\u043F\\\u0440\u043F\u043C\\source\\vers2\\tetrisgame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\struct\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|solutionrelative:struct\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\shapes\\zshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|solutionrelative:shapes\\zshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\shapes\\tshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|solutionrelative:shapes\\tshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\shapes\\sshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|solutionrelative:shapes\\sshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\shapes\\oshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|solutionrelative:shapes\\oshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\shapes\\lshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|solutionrelative:shapes\\lshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\shapes\\jshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|solutionrelative:shapes\\jshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\shapes\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|solutionrelative:shapes\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\shapes\\basicshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|solutionrelative:shapes\\basicshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\score\\scoreentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|solutionrelative:score\\scoreentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\render\\tetris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|solutionrelative:render\\tetris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\render\\tetris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|solutionrelative:render\\tetris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\logic\\shapegen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|solutionrelative:logic\\shapegen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\logic\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22429AC8-B273-4F6A-AAB2-5F330393A577}|Tetris.csproj|solutionrelative:logic\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TetrisGame\\Program.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Program.cs",
+              "RelativeToolTip": "..\\TetrisGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:15:20.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\MainMenu.cs",
+              "RelativeDocumentMoniker": "..\\TetrisGame\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\MainMenu.cs",
+              "RelativeToolTip": "..\\TetrisGame\\MainMenu.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA9wEgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:14:10.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\MainMenu.cs",
+              "RelativeDocumentMoniker": "..\\TetrisGame\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\MainMenu.cs [Design]",
+              "RelativeToolTip": "..\\TetrisGame\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:14:10.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Leaderboard.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Leaderboard.cs",
+              "RelativeDocumentMoniker": "..\\TetrisGame\\Leaderboard.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Leaderboard.cs",
+              "RelativeToolTip": "..\\TetrisGame\\Leaderboard.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:13:49.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Leaderboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Leaderboard.cs",
+              "RelativeDocumentMoniker": "..\\TetrisGame\\Leaderboard.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Leaderboard.cs [Design]",
+              "RelativeToolTip": "..\\TetrisGame\\Leaderboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:13:39.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TetrisCup.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Grid\\TetrisCup.cs",
+              "RelativeDocumentMoniker": "Grid\\TetrisCup.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Grid\\TetrisCup.cs",
+              "RelativeToolTip": "Grid\\TetrisCup.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:12:12.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Settings.cs",
+              "RelativeDocumentMoniker": "..\\TetrisGame\\Settings.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Settings.cs",
+              "RelativeToolTip": "..\\TetrisGame\\Settings.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:15:03.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Result.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Result.cs",
+              "RelativeDocumentMoniker": "..\\TetrisGame\\Result.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Result.cs [Design]",
+              "RelativeToolTip": "..\\TetrisGame\\Result.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:11:02.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Result.cs",
+              "RelativeDocumentMoniker": "..\\TetrisGame\\Result.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Result.cs",
+              "RelativeToolTip": "..\\TetrisGame\\Result.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:11:04.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Settings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Settings.cs",
+              "RelativeDocumentMoniker": "..\\TetrisGame\\Settings.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Settings.cs [Design]",
+              "RelativeToolTip": "..\\TetrisGame\\Settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:25:24.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Help.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Help.cs",
+              "RelativeDocumentMoniker": "..\\TetrisGame\\Help.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Help.cs [Design]",
+              "RelativeToolTip": "..\\TetrisGame\\Help.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:13:22.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Help.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Help.cs",
+              "RelativeDocumentMoniker": "..\\TetrisGame\\Help.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Help.cs",
+              "RelativeToolTip": "..\\TetrisGame\\Help.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:13:23.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Game.cs",
+              "RelativeDocumentMoniker": "..\\TetrisGame\\Game.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Game.cs",
+              "RelativeToolTip": "..\\TetrisGame\\Game.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:12:47.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Game.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Game.cs",
+              "RelativeDocumentMoniker": "..\\TetrisGame\\Game.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\TetrisGame\\Game.cs [Design]",
+              "RelativeToolTip": "..\\TetrisGame\\Game.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:12:45.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ZShape.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\ZShape.cs",
+              "RelativeDocumentMoniker": "Shapes\\ZShape.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\ZShape.cs",
+              "RelativeToolTip": "Shapes\\ZShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:11:52.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TShape.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\TShape.cs",
+              "RelativeDocumentMoniker": "Shapes\\TShape.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\TShape.cs",
+              "RelativeToolTip": "Shapes\\TShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:11:26.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SShape.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\SShape.cs",
+              "RelativeDocumentMoniker": "Shapes\\SShape.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\SShape.cs",
+              "RelativeToolTip": "Shapes\\SShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:10:47.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OShape.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\OShape.cs",
+              "RelativeDocumentMoniker": "Shapes\\OShape.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\OShape.cs",
+              "RelativeToolTip": "Shapes\\OShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:10:37.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LShape.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\LShape.cs",
+              "RelativeDocumentMoniker": "Shapes\\LShape.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\LShape.cs",
+              "RelativeToolTip": "Shapes\\LShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:09:59.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JShape.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\JShape.cs",
+              "RelativeDocumentMoniker": "Shapes\\JShape.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\JShape.cs",
+              "RelativeToolTip": "Shapes\\JShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:09:49.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\IShape.cs",
+              "RelativeDocumentMoniker": "Shapes\\IShape.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\IShape.cs",
+              "RelativeToolTip": "Shapes\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:09:20.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ScoreEntry.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Score\\ScoreEntry.cs",
+              "RelativeDocumentMoniker": "Score\\ScoreEntry.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Score\\ScoreEntry.cs",
+              "RelativeToolTip": "Score\\ScoreEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:08:28.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Tetris.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Render\\Tetris.cs",
+              "RelativeDocumentMoniker": "Render\\Tetris.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Render\\Tetris.cs",
+              "RelativeToolTip": "Render\\Tetris.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAYwMgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:07:55.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Struct\\Enums.cs",
+              "RelativeDocumentMoniker": "Struct\\Enums.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Struct\\Enums.cs",
+              "RelativeToolTip": "Struct\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:21:59.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Tetris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Render\\Tetris.cs",
+              "RelativeDocumentMoniker": "Render\\Tetris.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Render\\Tetris.cs [Design]",
+              "RelativeToolTip": "Render\\Tetris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:07:54.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShapeGen.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Logic\\ShapeGen.cs",
+              "RelativeDocumentMoniker": "Logic\\ShapeGen.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Logic\\ShapeGen.cs",
+              "RelativeToolTip": "Logic\\ShapeGen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:07:07.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GameField.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Logic\\GameField.cs",
+              "RelativeDocumentMoniker": "Logic\\GameField.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Logic\\GameField.cs",
+              "RelativeToolTip": "Logic\\GameField.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAYwIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:06:40.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BasicShape.cs",
+              "DocumentMoniker": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\BasicShape.cs",
+              "RelativeDocumentMoniker": "Shapes\\BasicShape.cs",
+              "ToolTip": "C:\\Users\\edelweiss\\Desktop\\\u041A\u041F\\\u0420\u041F\u041C\\SOURCE\\VERS2\\Tetris\\Shapes\\BasicShape.cs",
+              "RelativeToolTip": "Shapes\\BasicShape.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:33:57.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
